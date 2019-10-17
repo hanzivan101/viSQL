@@ -5,14 +5,13 @@
 
 
 """ 
-Cyber Warrior Ar-Ge Training adına geliştirmiş hedef 
-site ve sunucudaki sitelerde SQL Injection açığı
-arama aracı.
+JOIN TO OUR FORUM
+WWW.SHARINGNOLOMITS.NET
 """
 
-__author__  = "Black Viking"
-__date__    = "07.06.2017"
-__mail__    = "blackvkng@yandex.com"
+__author__  = "Ekelam Osus"
+__date__    = "10.18.2019"
+__mail__    = "hanzivan1717@gmail.com"
 
 try:
 	__version__ = open("version", "r").read().strip()
@@ -61,8 +60,9 @@ def logo():
                                   `bood'                                                        
 
 \t\t\tVersion: %s
-\t\t\thttp://github.com/blackvkng
-\t\t\tBlack Viking - Cyber-Warrior.org 
+\t\t\thttps://www.sharingnolimits.net
+\t\t\tEkelam Osus - SNL Community
+
 """%(__version__)
 
 def vprint(text, color="", type=""):
