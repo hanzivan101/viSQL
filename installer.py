@@ -3,7 +3,7 @@
 #
 #
 
-__author__ = "Black Viking"
+__author__ = "Ekelam Osus"
 
 import os
 import pip
